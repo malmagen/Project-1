@@ -1,0 +1,31 @@
+body{
+	font-family: "Lucida Grande", sans-serif;
+	color: #666666 ;
+	font-size: 11px;
+	line-height: 2;
+
+	} 
+.container{
+	margin-left: 10px;
+}
+
+#box{
+	border: 1px solid #c0c0c0;
+	margin-top: 20px;
+	margin-right:0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: ;
+
+}
+
+.h1{
+	color: #666666;
+}
+
+.h3Color{
+	color: #f07C17;
+}
+#toph3{
+	margin: 0 0 20px 0;
+	}
